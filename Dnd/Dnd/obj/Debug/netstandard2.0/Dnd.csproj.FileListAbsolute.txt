@@ -1,0 +1,35 @@
+C:\Users\warpe\source\repos\Dnd\Dnd\Dnd\bin\Debug\netstandard2.0\Dnd.deps.json
+C:\Users\warpe\source\repos\Dnd\Dnd\Dnd\bin\Debug\netstandard2.0\Dnd.dll
+C:\Users\warpe\source\repos\Dnd\Dnd\Dnd\bin\Debug\netstandard2.0\Dnd.pdb
+C:\Users\warpe\source\repos\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\Dnd.csprojAssemblyReference.cache
+C:\Users\warpe\source\repos\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\warpe\source\repos\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\warpe\source\repos\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\Dnd.csproj.CoreCompileInputs.cache
+C:\Users\warpe\source\repos\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\Dnd.AssemblyInfoInputs.cache
+C:\Users\warpe\source\repos\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\Dnd.AssemblyInfo.cs
+C:\Users\warpe\source\repos\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\warpe\source\repos\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\Dnd.dll
+C:\Users\warpe\source\repos\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\Dnd.pdb
+D:\Dnd\Dnd\Dnd\bin\Debug\netstandard2.0\Dnd.deps.json
+D:\Dnd\Dnd\Dnd\bin\Debug\netstandard2.0\Dnd.dll
+D:\Dnd\Dnd\Dnd\bin\Debug\netstandard2.0\Dnd.pdb
+D:\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\Dnd.csproj.CoreCompileInputs.cache
+D:\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\Dnd.AssemblyInfoInputs.cache
+D:\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\Dnd.AssemblyInfo.cs
+D:\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\Dnd.dll
+D:\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\Dnd.pdb
+I:\The Grand Lexicon\Drive1\Dnd\Dnd\Dnd\bin\Debug\netstandard2.0\Dnd.deps.json
+I:\The Grand Lexicon\Drive1\Dnd\Dnd\Dnd\bin\Debug\netstandard2.0\Dnd.dll
+I:\The Grand Lexicon\Drive1\Dnd\Dnd\Dnd\bin\Debug\netstandard2.0\Dnd.pdb
+I:\The Grand Lexicon\Drive1\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\Dnd.csprojAssemblyReference.cache
+I:\The Grand Lexicon\Drive1\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\App.xaml.g.cs
+I:\The Grand Lexicon\Drive1\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+I:\The Grand Lexicon\Drive1\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\Dnd.csproj.CoreCompileInputs.cache
+I:\The Grand Lexicon\Drive1\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\Dnd.AssemblyInfoInputs.cache
+I:\The Grand Lexicon\Drive1\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\Dnd.AssemblyInfo.cs
+I:\The Grand Lexicon\Drive1\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\XamlC.stamp
+I:\The Grand Lexicon\Drive1\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\Dnd.dll
+I:\The Grand Lexicon\Drive1\Dnd\Dnd\Dnd\obj\Debug\netstandard2.0\Dnd.pdb

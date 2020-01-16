@@ -1,0 +1,5 @@
+D:\Dnd\Dnd\Dnd.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\Dnd\Dnd\Dnd.Android\obj\Debug\81\Dnd.Android.csprojAssemblyReference.cache
+D:\Dnd\Dnd\Dnd.Android\obj\Debug\81\libraryimports.cache.stamp
+D:\Dnd\Dnd\Dnd.Android\obj\Debug\81\res.flag
+D:\Dnd\Dnd\Dnd.Android\obj\Debug\81\Dnd.Android.nuget.stamp
